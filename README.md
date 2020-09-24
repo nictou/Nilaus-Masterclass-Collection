@@ -1,7 +1,7 @@
 # Nilaus-Masterclass-Collection
 **Pastebin Original** https://pastebin.com/u/NilausTV
 
-* Advanced Smelting https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Advanced%20Smelting%20-%20FACTORIO%20MASTER%20CLASS.txt
+* [Advanced Smelting](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Advanced%20Smelting%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * Rocket Parts 
 * Grid Aligned
 * City Block
