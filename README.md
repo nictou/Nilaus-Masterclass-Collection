@@ -2,13 +2,9 @@
 **Pastebin Original** https://pastebin.com/u/NilausTV
 
 *Advanced Smelting*
-
 *Military Hub*
-
-* Rocket Parts
- 
- -Grid Aligned
- 
+* Rocket Parts 
+* Grid Aligned
 * City Block
 * Modular Train Segment
 * Early Game Smelting
