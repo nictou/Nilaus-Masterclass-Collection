@@ -12,7 +12,7 @@
 * [Plastic and Sulfurr]( https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Plastic%20and%20Sulfur%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * [Tileable Coal Liquefaction](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Tileable%20Coal%20Liquefactio%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * [Green/Red/Blue Circuit Builds](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/GreenRedBlue%20Circuit%20Designs%20by%20Nilaus%20-%20FACTORIO%20MASTER%20C.txt)
-* [Circuit Builds](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Circuit%20Builds%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt
+* [Circuit Builds](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Circuit%20Builds%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * [Manufacturing HUB ](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Manufacturing%20HUB%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * [Oil Refining](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Oil%20Refining%20by%20Nilaus%20-%20FACTORIO%20MASTER%20CLASS.txt)
 * [Upgradeable Oil Refining](https://raw.githubusercontent.com/nictou/Nilaus-Masterclass-Collection/master/Pastebin_bak/Upgradeable%20Oil%20Refining%20by%20Nilaus.txt)
