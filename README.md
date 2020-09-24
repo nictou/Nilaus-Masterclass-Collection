@@ -10,7 +10,7 @@
  -Grid Aligned
  
 * City Block
- -Modular Train Segment
+* Modular Train Segment
  -Early Game Smelting
  -Train Stations (1-4)
  -Nuclear Power
