@@ -11,7 +11,7 @@
  
 * City Block
 * Modular Train Segment
- -Early Game Smelting
+* Early Game Smelting
  -Train Stations (1-4)
  -Nuclear Power
  -Plastic and Sulfur
