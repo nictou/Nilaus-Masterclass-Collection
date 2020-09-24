@@ -1,6 +1,6 @@
 # Nilaus-Masterclass-Collection
 **Pastebin Original** https://pastebin.com/u/NilausTV
-  *Advanced Smelting
+  Advanced Smelting
 -Military Hub 
  -Rocket Parts
  -Grid Aligned
@@ -18,3 +18,6 @@
  -Upgradeable Oil Refining
  -Science 1.5 
  -Jump Start Base 0.18
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
