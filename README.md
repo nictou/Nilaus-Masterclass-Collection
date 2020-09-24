@@ -5,7 +5,7 @@
 
 *Military Hub*
 
-* -Rocket Parts
+* Rocket Parts
  
  -Grid Aligned
  
