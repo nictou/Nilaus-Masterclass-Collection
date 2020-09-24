@@ -5,11 +5,11 @@
 
 *Military Hub*
 
- -Rocket Parts
+* -Rocket Parts
  
  -Grid Aligned
  
- -City Block
+*City Block
  -Modular Train Segment
  -Early Game Smelting
  -Train Stations (1-4)
